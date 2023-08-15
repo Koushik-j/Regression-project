@@ -11,3 +11,8 @@ This paper proposes a football player recommendation system based on player stat
 **Introduction**:
 
 Football is the most popular sport in the world and has been since the beginning of the 20th century. As a result of that the sport has seen a significant rise in the number of players, making the job of the scouts and managers much harder than it was before. Currently, there are more than 250 million players in the world looking for opportunities to make it as professional footballers. The game of football works best when all the eleven positions on the pitch are being covered by the players having the skillsets of the required positions. In the era of modern football where there are too many players to choose from, this job becomes incredibly tough without seeking technological assistance. In this paper, we discuss the steps involved in developing a machine-learning model that aides the management in recruiting a player, especially when there is a vacant spot in the squad. We take into account the player’s market value or release clause, health condition, skillset, experience, and various other factors while recommending a particular player to the manager. The machine learning model also predicts the market value and performance of the target player in the future so that the manager and the club can make a well-informed decision and invest in the right player.
+
+
+**Data** : All the data is put into CSV files and sorted accordingly
+
+**Code** : Code is Divided into preprocessing data, and main code 
